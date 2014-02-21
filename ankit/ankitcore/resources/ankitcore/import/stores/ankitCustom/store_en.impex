@@ -1,0 +1,12 @@
+#
+# Import the Merchandise BaseStore
+#
+# ENGLISH LOCALIZATION
+#
+ 
+$lang=en
+ 
+$storeUid=ankitCustom
+ 
+UPDATE BaseStore;uid[unique=true];name[lang=$lang]
+;$storeUid;"Ankit Custom Store"

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<testclasses>
+  <ankitcore>
+    <testclass>org.training.core.checkout.flow.impl.FixedCheckoutFlowStrategyTest</testclass>
+    <testclass>org.training.core.suggestion.impl.DefaultSimpleSuggestionServiceTest</testclass>
+    <testclass>org.training.core.suggestion.DefaultSimpleSuggestionServiceIntegrationTest</testclass>
+    <testclass>de.hybris.merchandise.core.additions.GeneratedTypesTest</testclass>
+    <testclass>org.training.core.checkout.flow.impl.PickUpInStoreCheckoutFlowStrategyTest</testclass>
+    <testclass>org.training.core.checkout.flow.impl.SiteCheckoutFlowStrategyTest</testclass>
+    <testclass>de.hybris.merchandise.core.additions.DynamicAttributeTest</testclass>
+    <testclass>org.training.core.setup.CoreSystemSetupUnitTest</testclass>
+    <testclass>org.training.core.checkout.flow.impl.NewCustomerCheckoutFlowStrategyTest</testclass>
+    <testclass>org.training.core.batch.task.BatchIntegrationTest</testclass>
+  </ankitcore>
+</testclasses>

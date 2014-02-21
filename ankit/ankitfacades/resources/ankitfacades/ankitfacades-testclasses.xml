@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<testclasses>
+  <ankitfacades>
+    <testclass>org.training.facades.flow.impl.DefaultCheckoutFlowFacadeTest</testclass>
+    <testclass>org.training.facades.flow.impl.DefaultMobileCheckoutFlowFacadeTest</testclass>
+    <testclass>org.training.facades.suggestion.impl.DefaultSimpleSuggestionFacadeTest</testclass>
+    <testclass>org.training.facades.suggestion.DefaultSimpleSuggestionFacadeIntegrationTest</testclass>
+  </ankitfacades>
+</testclasses>
